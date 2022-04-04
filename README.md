@@ -1,4 +1,4 @@
-# Covid-19_Simulator
+# Covid-19_Spread_Simulator
 <br />the2.py is a code that simulates Corona Virus spread
 <br />Basically, individuals moves around and interacts with each other. Some of them has masks, some not which affects the spread possibility
 <br />draw.py visualizes the simulation,  
